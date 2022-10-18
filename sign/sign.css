@@ -92,7 +92,7 @@ body {
 .container .form .animated-input input[type='text']:focus,
 .container .form .animated-input input[type='password']:focus {
     padding: 20px 10px;
-    border-color: #ff14b1;
+    border-color: #4bc3ff;
     /* border-color: #10eeab; */
 }
 
